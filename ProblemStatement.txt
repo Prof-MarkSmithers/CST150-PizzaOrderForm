@@ -20,6 +20,3 @@ All sides are the same price and do not vary insize i.e. they only offer 1 size 
 
 On a typical day a customer will either call or come in and place an order. The customer has the option to add sides, and a drink. Customer orders are recorded. There are occasions where the customer has to cancel the order after it has been placed.
 
-
-
-Classes: Invoice, Order, Pizza, Sides, Drinks, item
