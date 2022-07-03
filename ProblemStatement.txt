@@ -1,0 +1,25 @@
+A bustiness owner has been taking pizza deliveries by paper and wishes to switch to an electronic order form system for his pizza Business
+Currently he offers the following pizza types
+Pizza Types:
+Supreme
+Peperoni
+Greek
+Margarita
+Sassuage
+Cheese
+
+Pizza size: S, M, L
+
+Sides: Wings, Bread Stick, Fries
+
+Drinks: Coke, Sprite, Mountain Dew, Mr. Pibb
+
+All large pizzas are the same price, all medium pizzas are the same price, all small pizzas are the same price. The ingredients on the pizza is fixed and there is no swapping out one topping for another.
+All drinks are the same size 1 liter
+All sides are the same price and do not vary insize i.e. they only offer 1 size of fries, a side of wings is 5 wings, and a size of breadsticks is 10 breadsticks.
+
+On a typical day a customer will either call or come in and place an order. The customer has the option to add sides, and a drink. Customer orders are recorded. There are occasions where the customer has to cancel the order after it has been placed.
+
+
+
+Classes: Invoice, Order, Pizza, Sides, Drinks, item
