@@ -1,4 +1,7 @@
 # CST150-PizzaOrderForm
+
+Loom Video: https://www.loom.com/share/44f41721569d4054a44841043ba4a77f
+
 Main Menu has two options Order (Place Order) or View Order
 On the place order form, a user can put in customer details, name, phone, email, and add pizza, sides, and drinks to the order. One pizza, side, and drink can be created at a time, but after clicking "Add to Order" more pizza, sides and drinks can be added
 When all the pizza, sides, and drinks have been added to the order, a user clicks Submit order, to submit the order, otherwise, the order will not be created.
